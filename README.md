@@ -1,2 +1,2 @@
-# IFC-Facility-Catalog
+# FacilityPass
 Facility Catalog based on IFC
